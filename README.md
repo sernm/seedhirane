@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, Seedhi Rane </h1>
+<h1 align="center"> Hi 👋, I'm YOUR NAME </h1>
 
 <h3 align="center">Software Developer | Frontend Developer | Full Stack Learner 🚀</h3>
 
