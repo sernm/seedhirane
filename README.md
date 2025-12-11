@@ -69,5 +69,4 @@ Computer Networks
 
 ---
 
-### 🌈 Fun Message  
 ✨ *Thanks for visiting my GitHub! Explore my projects and feel free to connect.*  
