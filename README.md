@@ -1,16 +1,16 @@
 <h1 align="center"> Hi , I'm Seedhi Rane </h1>
 
-<h3 align="center">Aspiring Software Developer | Web Developer | IT Enthusiast 🚀</h3>
+<h3 align="center">Aspiring Software Developer | Web Developer | IT Enthusiast </h3>
 
 ---
 
 ###  About Me  
-- 🎓 Pursuing **MSc in Information Technology**  
-- 🎓 Completed **Bachelor of Computer Applications (BCA)**  
-- 💻 Passionate about Web Development, Frontend Technologies & Cloud Basics  
-- 🌱 Currently learning AWS, Docker, React & Full-Stack Development  
-- 📫 Reach me at **raneseedhi10@gmail.com**  
-- 📍 South Goa, India
+- Pursuing **MSc in Information Technology**  
+- Completed **Bachelor of Computer Applications (BCA)**  
+- Passionate about Web Development, Frontend Technologies & Cloud Basics  
+- Currently learning AWS, Docker, React & Full-Stack Development  
+- Reach me at **raneseedhi10@gmail.com**  
+- South Goa, India
 
 ---
 
